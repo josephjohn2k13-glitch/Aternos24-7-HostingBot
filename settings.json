@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "ObsidianStarter",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "ObsidianCoreSMP.aternos.me",
+    "port": 55272,
     "version": "",
     "try-creative": false
   },
